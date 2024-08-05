@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+@layer base {
+  @font-face {
+    font-family: "Gram";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(./assets/fonts/Grambold.ttf) format("TrueType");
+  }
+
+  @font-face {
+    font-family: "Helvetica";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(./assets/fonts/Helvetica.ttf) format("TrueType");
+  }
+
+  @font-face {
+    font-family: "BebasNeue";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(./assets/fonts/BebasNeue-Regular.ttf) format("TrueType");
+  }
+}
+
+/* .filter-red {
+  filter: invert(20%) sepia(100%) saturate(5000%) hue-rotate(0deg)
+    brightness(80%) contrast(100%);
+} */
+
+.filter-red {
+  filter: invert(50%) sepia(100%) saturate(500%) hue-rotate(90deg)
+    brightness(70%) contrast(90%);
+}
