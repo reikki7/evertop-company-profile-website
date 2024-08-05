@@ -9,17 +9,17 @@ import PvcTransparentImage from '../assets/products/pvc-transparent.webp';
 const products = [
     {
         img: EvertopDoubleLayerImage,
-        title: "UPVC Double Layer",
-        description: "Upvc Double Layer No.1 Di Indonesia Di Buat dengan Performa prima menggunakan bahan baku terbaik dan dengan harga yang terjangkau. Evertop di perkuat dengan formula pelindung UV dan Radiasi intensitas cahaya matahari yang masuk ke dalam ruangan adalah sekitar 60 sampai 70%",
+        title: "uPVC Double Layer",
+        description: "uPVC Double Layer No.1 Di Indonesia Di Buat dengan Performa prima menggunakan bahan baku terbaik dan dengan harga yang terjangkau. Evertop di perkuat dengan formula pelindung UV dan Radiasi intensitas cahaya matahari yang masuk ke dalam ruangan adalah sekitar 60 sampai 70%",
         ketebalan: "10mm",
         lebarFisik: "885mm",
         lebarEfektif: "830mm",
         catalogue: "/catalogue/Evertop-IG-10.png",
         keunggulan: [
-            ["Sangat Kuah dan Kokoh", "Formula unik dan struktur rongganya yang pa a menjadikan EVERTOP 885 sangat kuat dan kokoh. Bahkan garansinya sampai 15 tahun."],
+            ["Sangat Kuat dan Kokoh", "Formula unik dan struktur rongganya yang pa a menjadikan EVERTOP 885 sangat kuat dan kokoh. Bahkan garansinya sampai 15 tahun."],
             ["Mampu Meredam Suara", "Rongga udara EVERTOP 885 membantu mengurangi suara dari luar, terutama saat hujan deras."],
             ["Tahan Terhadap Api dan Bahan Kimia", "EVERTOP 885 didesain untuk tahan terhadap api, pengaruh bahan kimia, dan polusi industri lainnya."],
-            ["Tidak Berkarat", "EVERTOP 885 diformulasikan untuk tahan terha ap lingkungan korosif, yang tidak ada pada atap biasa. EVERTOP 885 tahan terhadap karat dan tidak mudah rapuh."],
+            ["Tidak Berkarat", "EVERTOP 885 diformulasikan untuk tahan terhadap lingkungan korosif, yang tidak ada pada atap biasa. EVERTOP 885 tahan terhadap karat dan tidak mudah rapuh."],
         ],
     },
     {
@@ -30,17 +30,17 @@ const products = [
         lebarFisik: "885mm",
         lebarEfektif: "830mm",
         keunggulan: [
-            "Membuat ruangan jadi lebih sejik dan tidak panas.",
+            "Membuat ruangan jadi lebih sejuk dan tidak panas.",
             "Memiliki ketahanan yang baik.",
             "Bisa membuat bangunan jauh lebih cantik.",
             "Pemasangannya sangat mudah.",
-            "Hemat biaya karena tidak ada biaya insulansi."
+            "Hemat biaya karena tidak ada biaya insulasi."
         ],
     },
     {
         img: EvertopSingleLayerImage,
-        title: "UPVC Single Layer",
-        description: "Merupakan atap Upvc Single layer yang cocok bagi anda dengan kebutuhan atap tahan lama dengan harga terjangkau. Sangat ringan, tidak tembus cahaya, awet, dan tahan terhadap unsur-unsur kimia.",
+        title: "uPVC Single Layer",
+        description: "Merupakan atap uPVC Single layer yang cocok bagi anda dengan kebutuhan atap tahan lama dengan harga terjangkau. Sangat ringan, tidak tembus cahaya, awet, dan tahan terhadap unsur-unsur kimia.",
         ketebalan: "150mm",
         lebarFisik: "1070mm",
         lebarEfektif: "1005mm",
@@ -48,8 +48,8 @@ const products = [
     },
     {
         img: PvcTransparentImage,
-        title: "PVC Transparant",
-        description: "Merupakan atap bermaterial polycarbonate mempunyai ciri yang sangat kokoh, transparant, jernih, tahan terhadap temperatur. Polycarbonate mempunyai struktur yang fleksibel sehingga gampang dilengkungkan.",
+        title: "PVC Transparent",
+        description: "Merupakan atap bermaterial polycarbonate yang sangat kokoh, transparan, jernih, dan tahan terhadap temperatur. Polycarbonate memiliki struktur yang fleksibel sehingga mudah dilengkungkan",
         ketebalan: "80mm",
         lebarFisik: "1070mm",
         lebarEfektif: "78mm",
