@@ -23,8 +23,8 @@ const products = [
     },
     {
         img: PvcTransparentImage,
-        title: "PVC Transparant",
-        description: "Merupakan atap bermaterial polycarbonate mempunyai ciri yang sangat kokoh, transparant, jernih, tahan terhadap temperatur. Polycarbonate mempunyai struktur yang fleksibel sehingga gampang dilengkungkan."
+        title: "PVC Transparent",
+        description: "Merupakan atap bermaterial polycarbonate mempunyai ciri yang sangat kokoh, transparan, jernih, tahan terhadap temperatur. Polycarbonate mempunyai struktur yang fleksibel sehingga gampang dilengkungkan."
     },
 ];
 
