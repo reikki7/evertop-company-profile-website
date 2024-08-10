@@ -11,7 +11,7 @@ function App() {
         <Header />
       </div>
       <Navbar />
-      <div className="flex-grow">
+      <div className="flex-grow mt-16 md:mt-0">
         <Outlet />
       </div>
       <Footer />

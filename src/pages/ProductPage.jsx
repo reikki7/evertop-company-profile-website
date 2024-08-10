@@ -30,7 +30,7 @@ const products = [
 
 const ProductPage = () => {
     return (
-        <div className="container px-4 py-8 mx-auto mt-16 md:mt-0 font-helvetica">
+        <div className="container px-4 py-8 mx-auto font-helvetica">
             <h1 className="mb-12 text-4xl font-bold tracking-wider text-center font-bebasneue">Produk <span className='text-[#0d923a]'>Kami</span></h1>
             <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
                 {products.map((product, index) => (
