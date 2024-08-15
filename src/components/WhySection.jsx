@@ -1,4 +1,3 @@
-import React from "react";
 import tentangKamiIcon1 from "../assets/TentangKami1.svg";
 import tentangKamiIcon2 from "../assets/TentangKami2.svg";
 import tentangKamiIcon3 from "../assets/TentangKami3.svg";

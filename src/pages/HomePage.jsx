@@ -1,4 +1,3 @@
-import React from "react";
 import HeroBackground from "../assets/HeroBackground.webp";
 import HeroLogo from "../assets/HeroLogo.svg";
 import WhySection from "../components/WhySection";
@@ -8,14 +7,6 @@ import HomeProject from "../components/HomeProject";
 import IndonesiaMap from "../assets/IndonesiaMap.png";
 
 const HomePage = () => {
-  const handleScroll = (event, targetId) => {
-    event.preventDefault();
-    const targetElement = document.getElementById(targetId);
-    if (targetElement) {
-      targetElement.scrollIntoView({ behavior: "smooth", block: "center" });
-    }
-  };
-
   const cities = [
     "Medan",
     "Lampung",
